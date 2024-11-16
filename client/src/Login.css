@@ -1,0 +1,84 @@
+/* General background styling */
+.background {
+    background-color: #f0f4f8; /* Light background color */
+    min-height: 100vh; /* Ensure it covers full height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .create-post-container {
+    padding: 20px;
+    background-color: #fafafa;
+  }
+  
+  /* Centering content */
+  .center {
+    background-color: #fff;
+    margin-top: 30px;
+    margin-left: 30%;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  /* Styling for the header */
+  .center h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Styling for input fields */
+  .center input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Error message styling */
+  .center p {
+    font-size: 14px;
+    color: red;
+    margin-top: 10px;
+  }
+  
+  /* Button styles */
+  .LoginButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  .LoginButton:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Go back button styling */
+  .center button {
+    background-color: #f0f4f8;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  .center button:hover {
+    background-color: #e0e4e8;
+  }
+  

@@ -27,7 +27,7 @@ app.listen(3001, ()=> {
     console.log("Server is Running")
 })
 
-mongoose.connect("mongodb+srv://Saja:Hamade@todolist.805ge.mongodb.net/People?retryWrites=true&w=majority&appName=ToDoList") 
+mongoose.connect("") 
 
 
 //The Login Functionalities 

@@ -28,7 +28,7 @@ npm install
    cd server
    npm start 
    --if you see Server is Running -- Then it is successfuly running . 
-   P.S: don't forget to add your MongoDB connection string here : mongoose.connect("") , and the nodemail password for the forget password functionality 
+   P.S: don't forget to add your MongoDB connection string here : mongoose.connect("") 
 
 6:Start the frontend
     cd client

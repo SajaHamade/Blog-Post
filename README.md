@@ -1,10 +1,10 @@
-# E-Commerce
+# Blog Post
 This is a full-stack Blog Post application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 It implies the basic CRUD Operations
 
 ## Features
 - User Login /Sign Up / Forget Password 
-- Post Browsing
+- View Posts
 - Create / Edit / Delete Post if user is logged in
 
 
